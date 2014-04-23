@@ -216,4 +216,7 @@
     <ItemGroup>
         <Content Include="www\js\index.js" />
     </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\js\jquery-2.1.0.min.js" />
+    </ItemGroup>
 </Project>
